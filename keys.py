@@ -1,3 +1,0 @@
-username = 'znho6oa18kc76b0vfp48ezlb6'
-client_id='1090515a7d0841529d42336267c40e06'
-client_secret='24edbfcb6a1243eba3dde8a11a505be0'
